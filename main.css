@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    background-color:beige ;
+    color:darkslategrey;
+}
+p{
+    font-size: 30px;
+}
+a{
+    font-size: 25px;
+    color:blue;
+}
